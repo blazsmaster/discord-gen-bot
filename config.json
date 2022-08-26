@@ -1,8 +1,8 @@
 {
-    "token": "",
-    "prefix": "gen!",
-    "genChannel": "",
-    "genCooldown": "1000",
+    "token": "MTAxMjg0NDczNzM2OTIxMDk1Mw.GIKCNR.PDBQ7pr5WzCvfAtLFlGj90v2XVav6BwTdPFOzw",
+    "prefix": ",gen",
+    "genChannel": "test",
+    "genCooldown": "5",
     "color": {
         "green": "0x57F287",
         "yellow": "0xFEE75C",
